@@ -1,0 +1,29 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+**/Generated.xcconfig
+**/Flutter.podspec
+*/.mode1v3
+*/.pbxuser
+*/.perspectivev3
+.idea/
+.macos/
+*.iml
+
+# Android related
+.gradle
+/local.properties
+/.idea
+.DS_Store
+*.jks
+android/key.properties
+
+# VS Code
+.vscode/
